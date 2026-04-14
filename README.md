@@ -144,7 +144,7 @@ print(result.candidate_ids)
 
 | Framework | Guide | Use Case |
 |---|---|---|
-| MCP | [Guide](docs/integration_mcp.md) | Tool conversion, session loading, firewall |
+| MCP | [Guide](docs/integration_mcp.md) | Tool conversion, session loading, firewall · [Security note](docs/integration_mcp.md#security-considerations) |
 | A2A | [Guide](docs/integration_a2a.md) | Agent cards, multi-agent sessions |
 | LlamaIndex | Guide (coming soon) | RAG + tools with budget control |
 | OpenAI Agents SDK | Guide (coming soon) | Function-calling agents with routing |
